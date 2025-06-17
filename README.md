@@ -31,7 +31,10 @@
 | Learning Platforms   | <img src="https://img.shields.io/badge/PIAIC-000000?style=for-the-badge&logo=piaic&logoColor=white"/> <img src="https://img.shields.io/badge/Awafera-000000?style=for-the-badge&logo=awafera&logoColor=white"/> <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> <img src="https://img.shields.io/badge/Data%20Camp-000000?style=for-the-badge&logo=datacamp&logoColor=white" /> <img src="https://img.shields.io/badge/LinkedIn%20Learning-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> |
 | Currently Exploring  | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/> |
 
+### 🤖 AI & Agentic Development  
+> *“Currently working on AI projects, building autonomous agents using OpenAI Agents SDK.  
+> Learning Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern — from start to scale.”*  
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
-
